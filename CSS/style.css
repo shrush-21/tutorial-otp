@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(133, 200, 200);
+}
+
+.main{
+    height: 350px;
+    width: 450px;
+    border: 4px solid black;
+    background-color: rgb(54, 168, 168);
+    color: whitesmoke;
+    text-align: center;
+    position: absolute;
+    top: 200px;
+    left: 560px;
+    border-radius: 30px; 
+}
+
+h2 {
+    background-color: rgb(80, 220, 220);
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    height: 60px;
+    width: 410px;
+    padding-left: 0px;
+    margin-top: 0px;
+    padding: 20px;
+    padding-top: 40px;
+    font-size: 38px;
+}
+
+.middle {
+    padding-top: 10px;
+    font-size: 18px;
+}
+
+#number {
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-left: 50px;
+    height: 22px;
+    width: 180px;
+}
+
+button {
+    border: 2px solid white;
+    border-radius: 20px;
+    background-color:  rgb(71, 124, 124);
+    height: 32px;
+    width: 120px;
+    color: rgb(190, 244, 244);
+}
+
+button:hover{
+    background-color:  rgb(102, 186, 186);
+    color: rgb(0, 0, 0);
+}
